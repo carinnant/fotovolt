@@ -1,0 +1,154 @@
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/UnityEngine.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/UnityEditor.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/TouchScript.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Mono.Cecil.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Unity.DataContract.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/UnityEngine.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/UnityEditor.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/TouchScript.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Mono.Cecil.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Unity.DataContract.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v11/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/UnityEngine.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/UnityEditor.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/TouchScript.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Mono.Cecil.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Unity.DataContract.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/UnityEngine.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/UnityEditor.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/TouchScript.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Mono.Cecil.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Unity.DataContract.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v15/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/UnityEngine.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/UnityEditor.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/TouchScript.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Mono.Cecil.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Unity.DataContract.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/UnityEngine.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/UnityEditor.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/TouchScript.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Mono.Cecil.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Unity.DataContract.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/marcoantoniocarvalho/Downloads/TESTE_v17 2/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/UnityEngine.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/UnityEditor.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/TouchScript.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Mono.Cecil.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Unity.DataContract.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/marcoantoniocarvalho/Downloads/Backup/TESTE_v12/Temp/bin/Debug/Mono.Cecil.Mdb.dll
