@@ -7,3 +7,6 @@ The user need to go through six levels to escape and win the game. The first fiv
 
 Game elements such as theme and flow of actions were created with Unity (free version 5.5.0) and the bi-dimensional graphical design with the Adobe Photoshop CC. Developed in C\#, the game currently only runs on desktops with the Windows operational system. There may be compatibility issues.
 
+Fotovolt was developed as a Master Project, at the University of Campinas - Unicamp/Limeira/Brazil. We acknowledge the São Paulo Research Foundation (FAPESP - Process 2017/13805-8) and Improvement of Higher Education Personnel (CAPES/Brazil). We also thank the technical support of the Remote Experimentation Lab (RExLab).
+
+
