@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Vela
+  - mirror
+  - inversor
+  - Luz
+  - manivela
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UI2
+  - Mirror
+  - Luz
+  - Inversor
+  - Wall
+  - Tip4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI2
+    uniqueID: 4140170295
+    locked: 0
+  - name: UI
+    uniqueID: 1972425239
+    locked: 0
